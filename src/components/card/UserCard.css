@@ -1,0 +1,23 @@
+.card__name {
+    color: #6c757d;
+}
+
+.card__outer {
+    transition-delay: 0.8s ease;
+    margin: 10px;
+}
+
+.card__outer:hover {
+    transform: scale(1.1);
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-evenly;
+}
