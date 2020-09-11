@@ -1,3 +1,16 @@
+Live Demo:
+https://time-tracking-cdecf.web.app/
+
+I have used a custom mock API with the contents given in the Test JSON.json file,
+upon opening the page:
+- you will see the details of the two users from the API.
+- There will be two buttons, View activity and calender icon.
+- Upon clicking the view activity, you will get the data of today.
+- since there is no data for today you will always see "NO Data".
+- Upon clicking the calender icon you will see all the logged in time of that user
+
+--------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
